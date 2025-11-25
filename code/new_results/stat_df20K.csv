@@ -1,7 +1,0 @@
-model,roi,signature,estimate,percentile_95%CI,bca_95%CI,p_value
-LR,gtv,"['original_glszm_SizeZoneNonUniformityNormalized', 'original_gldm_LargeDependenceHighGrayLevelEmphasis', 'original_gldm_DependenceVariance']",0.7333333333333334,[0.58194444 0.91666667],[0.52361111 0.83611111],0.01
-L-SVM,gtv,"['original_glcm_MCC', 'original_glcm_Imc1', 'original_glszm_GrayLevelVariance']",0.7708333333333334,[0.6375     0.94166667],[0.49661933 0.84583333],0.003
-RF,gtv,"['original_shape_Flatness', 'original_shape_MajorAxisLength', 'original_ngtdm_Busyness']",0.8708333333333333,[0.84722222 1.        ],[0.6473939 0.875    ],0.001
-LR,trad,"['original_glcm_Imc1', 'original_firstorder_InterquartileRange', 'original_glcm_Imc2']",0.7291666666666667,[0.50277778 0.88888889],[0.53611111 0.8625    ],0.01
-L-SVM,trad,"['original_firstorder_Median', 'original_gldm_LargeDependenceLowGrayLevelEmphasis', 'original_gldm_DependenceEntropy']",0.8041666666666668,[0.56111111 0.9125    ],[0.68611111 0.93333333],0.002
-RF,trad,"['original_glcm_Imc1', 'original_shape_MajorAxisLength', 'original_glcm_MaximumProbability']",0.8020833333333334,[0.8525 1.    ],[0.705      0.71480911],0.005
