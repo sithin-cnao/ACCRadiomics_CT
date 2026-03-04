@@ -4,7 +4,7 @@ Repository supporting the article submitted to MDPI
 
 If you use this codebase for your research, please cite our paper if available; otherwise, please cite this repository:
 ```bibtex
-TBA
+Fontana, Giulia, et al. "Investigating the Radiomic Performance Gap Driven by Delineation Strategy: Radiotherapy Gross Tumor Volume vs. Dedicated Lesion Segmentation in Proton-Treated Adenoid Cystic Carcinoma." Technologies 14.3 (2026): 144. https://doi.org/10.3390/technologies14030144
 ```
 ### **Repository structure**
 #### **Overview:**
